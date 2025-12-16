@@ -119,6 +119,6 @@ The `.gitignore` file includes entries to prevent sensitive files from being com
 
 ## 🧑‍💻 Author
 
-[Your Name/GitHub Handle]
+[Pratiik-glitch]
 
 ---
